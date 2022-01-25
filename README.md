@@ -1,3 +1,3 @@
 # Jetpack-Compose-BottomAppBar-with-FloatingActionButton-FAB
 
-# YouTube link -> https://www.youtube.com/watch?v=7aYIeQjJa8M
+## [Watch it On YouTube](https://youtu.be/7aYIeQjJa8M)
